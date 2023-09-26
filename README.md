@@ -1,0 +1,2 @@
+# SwiftArquiteturas
+Projeto utilizando Swift
